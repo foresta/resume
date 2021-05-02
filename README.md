@@ -304,7 +304,8 @@ https://nominico.com/
 
 - [エンジニアの成長を応援する忘年LT大会2019](https://engineers.connpass.com/event/158599/)
   - [スライド](https://speakerdeck.com/kz_morita/buroguwoshu-kisok-ketahua)
-  - 
+
+
 ### ISUCON
 
 予選を通過したことはありませんが，ISUCON6 から毎年出場しています．
