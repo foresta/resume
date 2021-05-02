@@ -29,7 +29,7 @@
 
 ##### 環境
 - チーム規模: 3人 (エンジニア)
-- 役割: サーバーサイドエンジニア
+- 役割: サーバーサイドエンジニア 兼 フロントエンドエンジニア
 - 使用技術: Kotlin, Jersey, Kodein, Grizzly2, Hibernate, React, Redux, TypeScript, Express, Contentful, Cypress, AWS (ECS/Fargate, Aurora, ElastiCache Redis etc...)
 
 ##### 主な業務と成果
@@ -126,7 +126,7 @@ NewsPicksとは別の会員向けアプリのiOS開発を行いました．時�
 ##### 環境
 - チーム規模: 20 ~ 30人ほど (うちエンジニアが5~8人)
 - 役割: サーバーサイドエンジニア
-- 使用技術: C#, SQL Server, ASP.net, JavaScript (jQuery), Visual Studio, 
+- 使用技術: C#, SQL Server, ASP.NET, JavaScript (jQuery), Visual Studio, 
 
 ##### 主な業務と成果
 - 新規GvGバトル (チーム戦) イベントをメインエンジニアとして設計，実装
@@ -142,6 +142,104 @@ NewsPicksとは別の会員向けアプリのiOS開発を行いました．時�
   - サーバーサイドに主軸をおいていたが，リソースが足りていないフロントエンド側も積極的に開発
 - 障害対応やお問い合わせ対応全般
 
+## 学歴
+
+東京都市大学 知識工学部情報科学科 学士
+
+## スキル
+
+### プログラミング言語
+
+#### Kotlin
+- 2020 ~ 2021 (1年半)
+- 新規開発の際にサーバーサイドのプログラムに使用
+- Gradle周りの環境構築から可能
+- Androidは未経験
+
+#### Java
+- 2019 ~ 2021 (2年)
+- コードリーディングと，既存コードに対する修正が可能なレベル
+
+#### Swift 4, 5
+
+- 2018 ~ 2020 (2年)
+- 業務とプライベートのiOSアプリ開発で使用
+- 1からアプリのリリースまでの経験がある
+
+#### JavaScript (ES6)
+
+- 2014 ~ 現在 (7年)
+- エンジニア始めた当初から使っている
+- 特に軸足をおいて深く掘り下げているわけではない
+
+#### TypeScript
+
+- 2020 ~ 2021 (1年半)
+- 既存のコードに対して，追加実装，バグ修正，改善などが可能
+
+#### React.js
+
+- 2020 ~ 2021 (1年半)
+- Component の書き方や，hooks の使用，カスタム hooks を実装などができるレベル
+
+#### Vue.js
+- 2019  (半年)
+- Nuxt.js と合わせて新規サービスの開発をおこないました
+
+#### C++11/14
+
+- 2016 ~ 2018 (2年)
+- 3Dゲーム開発で使用していたため最低限パフォーマンスを意識したコードが実装可能
+- テンプレートなどもある程度は理解
+
+#### C#
+
+- 2014 ~ 2016 (2年)
+- ASP.NET などと合わせて Webアプリケーションの追加実装，修正が可能
+
+#### Rust
+
+- 実務経験なし
+- 調べながらコードがかけるレベル
+- 個人のプロダクト開発でつかってみたり，競技プログラミングで使用
+
+#### golang
+
+- 実務経験なし
+- 調べながらコードがかけるレベル
+- ブログで使用している Hugo 周りや，ISUCONで使用
+
+### ミドルウェア
+
+#### SQL Server
+
+- 2014 ~ 2016 (2年)
+- 既存のDBに対して，テーブルの追加やインデックスの見直し，実行計画をみてパフォーマンスのチューニングが可能
+- 1 から環境構築した経験はない
+
+#### MySQL
+
+- 2014 ~ 2021 (7年)
+- 既存のDBに対して，テーブルの追加やインデックスの見直し，実行計画をみてパフォーマンスのチューニングが可能
+- my.cnf などの設定は基本的な知識のみ
+
+### サービス
+
+#### AWS
+
+- 2020 ~ 2021 (2年)
+- ECS/Fargate, Aurora, ElastiCache Redis, Lambda, S3, CloudFront, EC2, Route53 などの経験あり
+- VPC の作成や，IAMによるセキュリティなどは実務経験なし
+
+#### Contenful
+- 2019 ~ 2021 (3年)
+- Content Model の定義などの基本的な利用が可能
+- webhooks, custom editor などチームの要件に合わせて Contentful をカスタマイズ可能
+
+#### Firebase
+- 実務経験なし
+- iOSアプリのバックエンドとして，Authentication，FireStore，Cloud Function などを使用
+
 ## 業務外活動
 
 ### ブログの執筆
@@ -153,14 +251,31 @@ NewsPicksとは別の会員向けアプリのiOS開発を行いました．時�
 
 https://blog.foresta.me
 
-### 技術書展
+### 技術書典
 
-技術書展に共著で本を出しました．
+技術書典に共著で本を出しました．
 
 iOS で HLS 動画の配信とダウンロードについて書いています．
 
 https://techbookfest.org/event/tbf08/circle/5682769699012608
 
+### iOSアプリ開発
+
+ノミニコという，気軽に飲みに誘えるアプリの開発を担当しました．
+アプリが Swift で，バックエンドにFirebase を用いています．
+
+https://nominico.com/
+
+### 登壇
+
+主にLTの発表をしています．
+
+- [なんでもLT大会 第3弾](https://itmokumoku.connpass.com/event/119460/)
+  - [スライド](https://speakerdeck.com/kz_morita/buroguzhi-bi-wozhi-eruji-shu)
+
+- [エンジニアの成長を応援する忘年LT大会2019](https://engineers.connpass.com/event/158599/)
+  - [スライド](https://speakerdeck.com/kz_morita/buroguwoshu-kisok-ketahua)
+  - 
 ### ISUCON
 
 予選を通過したことはありませんが，ISUCON6 から毎年出場しています．
@@ -172,11 +287,11 @@ https://techbookfest.org/event/tbf08/circle/5682769699012608
 
 ### AtCoder
 
-参加回数が少ないですが，参加しています．C++やRustで解いています．
+参加回数が少ないですが，たまに参加しています．C++やRustで解いています．
 
 https://atcoder.jp/users/kz_morita
 
 ## その他リンク
 
-- [Machine Learning - Coursera](https://www.coursera.org/account/accomplishments/verify/7MDGD56J3TV6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Machine Learning 修了証 - Coursera](https://www.coursera.org/account/accomplishments/verify/7MDGD56J3TV6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [会社のTechBlog - Node.js の CPUプロファイリングでボトルネックを特定する](https://tech.uzabase.com/entry/2021/03/25/125942)
