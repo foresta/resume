@@ -166,6 +166,16 @@ https://techbookfest.org/event/tbf08/circle/5682769699012608
 予選を通過したことはありませんが，ISUCON6 から毎年出場しています．
 言語は golang を用いています．
 
+参加ログはこちら
+
+- https://blog.foresta.me/tags/isucon
+
+### AtCoder
+
+参加回数が少ないですが，参加しています．C++やRustで解いています．
+
+https://atcoder.jp/users/kz_morita
+
 ## その他リンク
 
 - [Machine Learning - Coursera](https://www.coursera.org/account/accomplishments/verify/7MDGD56J3TV6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
