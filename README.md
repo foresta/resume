@@ -271,10 +271,13 @@ NewsPicksとは別の会員向けアプリのiOS開発を行いました．時�
 ### サービス
 
 #### AWS
-
-- 2020 ~ 2021 (2年)
-- ECS/Fargate, Aurora, ElastiCache Redis, Lambda, S3, CloudFront, EC2, Route53 などの経験あり
+- 2020 ~ 2023 (4年)
+- ECS/Fargate, Aurora, ElastiCache Redis, Lambda, S3, CloudFront, EC2, EMR, Route53 などの経験あり
 - VPC の作成や，IAMによるセキュリティなどは実務経験なし
+
+#### DataDog
+- 2021 ~ 2023 (2年)
+- Terraform を使って、minitor の作成、metrics の送信とダッシュボード化などが可能
 
 #### Contenful
 - 2019 ~ 2021 (3年)
